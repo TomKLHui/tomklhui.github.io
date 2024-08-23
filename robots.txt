@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TomKLHui.github.io/profile//sitemap.xml
+Sitemap: https://TomKLHui.github.io/sitemap.xml
