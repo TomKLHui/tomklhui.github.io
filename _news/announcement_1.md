@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-My first first author publication! Reviewer 2 difinitely went easy on me for this one. 
-<a href="https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-024-03209-4">DOI: 10.1186/s12866-024-03209-4</a>
+My first first author publication! Reviewer 2 definitely went easy on me for this one.  
+[DOI: 10.1186/s12866-024-03209-4](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-024-03209-4)

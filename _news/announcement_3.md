@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finally got my Mphil certificate! :sparkles: :smile:
+Finally got my MPhil certificate! ✨ 😊
