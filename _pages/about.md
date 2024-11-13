@@ -2,24 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Rm 101A, <a href='https://www.msl.sls.cuhk.edu.hk/'>F. S. Li Marine Science Laboratory</a>. +852 3943 6391.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Research Interests:</p>
+    <p>Evolution, Molecular Ecology</p>
+    <p>Marine Science, Microbiome</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello,
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am Tom Kwok Lun Hui, a dedicated and enthusiastic researcher specializing in molecular ecology. My academic journey includes obtaining an MPhil in Biology and a BSc (Hons) in Biology from The Chinese University of Hong Kong, where I delved into the fascinating realm of molecular ecology, particularly focusing on metagenomic and transcriptomic studies related to digestive functions in herbivorous crab holobionts.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research experiences have equipped me with a diverse skill set, from conducting field collections and dissections of intertidal animals to proficiently handling nucleic acid extractions on challenging samples. Additionally, my expertise extends to molecular techniques such as PCR, cloning, and protein expression, complemented by my proficiency in data analysis tools like R, Python, and various omics tools.
+
+Noteworthy projects during my academic tenure include my thesis work, which explored novel microscopic aspects influencing the macroevolution of crabs on land, leading to publications in esteemed international journalsm which you can easily find (EVERYWHERE) in this website.
+
+Beyond academia, I am passionate about sharing my knowledge with others. As a Teaching Assistant at the CUHK Summer Institute and through volunteer work at events like the Hong Kong Black Kite Festival and Reef Check, I have contributed to spreading scientific awareness and fostering environmental education.
+
+Thank you for you interest in my profile! I look forward to the opportunity to collaborate with you.

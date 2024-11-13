@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Tom_Kwok_Lun_HUI_Resume2024.pdf
+description: Please find my printer-friendly version of my CV here. All information are also included here more interactively, so feel free to browse around!
 toc:
   sidebar: left
 ---
