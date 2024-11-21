@@ -1,23 +1,23 @@
 chandler:
-  - firstname:
-      - "Chandler"
-      - "T."
-      - "T. T."
-      - "Chandler Tsz To Tsang"
+  firstname:
+    - "Chandler"
+    - "T."
+    - "T. T."
+    - "Chandler Tsz To Tsang"
 
 lm:
-  - firstname:
-      - "L. M."
-      - "Ling Ming Tsang"
+  firstname:
+    - "L. M."
+    - "Ling Ming Tsang"
 
 karen:
-  - firstname:
-      - "Karen"
-      - "K. W. W."
-      - "Karen Ka Wing Wong"
+  firstname:
+    - "Karen"
+    - "K. W. W."
+    - "Karen Ka Wing Wong"
 
 irene:
-  - firstname:
-      - "Irene"
-      - "I. C. N."
-      - "Irene Ching Nam Lo"
+  firstname:
+    - "Irene"
+    - "I. C. N."
+    - "Irene Ching Nam Lo"
